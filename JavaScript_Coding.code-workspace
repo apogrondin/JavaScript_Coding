@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "JavaScript_Coding",
+			"path": "."
+		},
+		{
+			"name": "unit 1",
+			"path": "../../../Apolline Grondin/unit 1"
+		},
+		{
+			"name": "unit 2",
+			"path": "../../../Apolline Grondin/unit 2"
+		},
+		{
+			"name": "unit 4",
+			"path": "../../../Apolline Grondin/unit 4"
+		},
+		{
+			"name": "unit 6",
+			"path": "../../../Apolline Grondin/unit 6"
+		},
+		{
+			"name": "unit 7",
+			"path": "../../../Apolline Grondin/unit 7"
+		},
+		{
+			"name": "Unit8",
+			"path": "../../../Apolline Grondin/Unit8"
+		},
+		{
+			"name": "assignments",
+			"path": "../../../Apolline Grondin/assignments"
+		},
+		{
+			"name": ".vscode",
+			"path": "../../../Apolline Grondin/.vscode"
+		}
+	],
+	"settings": {}
+}
